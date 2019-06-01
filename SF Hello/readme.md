@@ -4,4 +4,4 @@ This is the version I extracted from one of [Apple Presentation PDF](https://www
 ### License
 Copyright © 2016-2017 Apple Inc. All rights reserved. Use of the SF Hello font is restricted to Apple employees and permitted contractors and vendors and may only be used for the purpose of creating Apple-produced communications.
 
-Unfortunately I am not able to upload the font here due to its stricter license. Other fonts may not be allowed here, but since some of them are available on Apple Developers so I think it's fine, as long as they are not used outside Apple products, especially for commercial use.
+Unfortunately I am not able to upload the font here due to its stricter license.
