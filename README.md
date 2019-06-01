@@ -12,7 +12,7 @@ For the **SF Serif**, **SF Compact (Rounded)**, **SF Pro Rounded** and **SF Cash
 For the **SF Hello** typeface, it is restricted to Apple employees and permitted contractors and vendors.
 
 ## Notice
-Every font in this repository belongs to [Apple](https://www.apple.com). The purpose of this repository, and its website, is to demonstrate the San Francisco font family, and under no circumstances is it used for commercial purposes. Every font here is obtainable through public means, by taking from Apple applications like Xcode, macOS, iOS and Apple website.
+Every font in this repository belongs to [Apple](https://www.apple.com). The purpose of this repository, and its website, is to demonstrate the San Francisco font family, and under no circumstances is it used for commercial purposes.
 
 ## Preview the fonts
 You can visit https://windyboy1704.github.io/San-Francisco-family/ to try out the fonts.  
