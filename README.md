@@ -8,7 +8,7 @@ For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obt
 Apple fonts are not meant to be used for commercial purposes outside Apple products. For **SF Pro**, its license can be found [here](https://github.com/windyboy1704/SFPro-JP/blob/master/license.md).
 
 For the **SF Mono** typeface, you are allowed to use it only in Xcode, Terminal.app and Console.app.  
-For the **SF Serif**, **SF Compact (Rounded)**, **SF Pro Rounded** and **SF Cash** typeface, your use of this font is subjected to terms of the applicable iOS/macOS/tvOS/watchOS Software License Agreement.  
+For the **SF Serif**, **SF Compact (Rounded)**, **SF Pro Rounded**, **SF Cash** and **SF Shields** typeface, your use of this font is subjected to terms of the applicable iOS/macOS/tvOS/watchOS Software License Agreement.  
 For the **SF Hello** typeface, it is restricted to Apple employees and permitted contractors and vendors.
 
 ## Notice
