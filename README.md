@@ -1,5 +1,5 @@
 # San Francisco family (SF family)
-All of the fonts in San Francisco font family, developed by Apple. Including the new serif fonts found in the Apple Book app on iOS 12, and more.  
+All of the fonts in San Francisco font family, developed by Apple. Including the new serif fonts found in the Apple Book app on iOS 12, and more to come.  
 Can be opened on Windows.
 
 For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain it~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
