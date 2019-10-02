@@ -1,5 +1,5 @@
 # San Francisco family (SF family)
-All of the fonts in San Francisco font family, developed by Apple. Including official TTF versions found on Apple website.  
+All of the fonts in San Francisco font family, developed by Apple. Including official TTF versions found on Apple Support website.  
 Can be opened on Windows.
 
 For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain it~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
@@ -7,9 +7,9 @@ For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obt
 ## License
 Apple fonts are not meant to be used for commercial purposes outside Apple products. For **SF Pro**, its license can be found [here](https://github.com/windyboy1704/SFPro-JP/blob/master/license.md).
 
+For the **SF Hello** typeface, it is restricted to Apple employees, and permitted contractors and vendors.  
 For the **SF Mono** typeface, you are allowed to use it only in Xcode, Terminal.app and Console.app.  
-For the **SF Serif**, **SF Compact (Rounded)**, **SF Pro Rounded**, **SF Cash** and **SF Shields** typeface, your use of this font is subjected to terms of the applicable iOS/macOS/tvOS/watchOS Software License Agreement.  
-For the **SF Hello** typeface, it is restricted to Apple employees and permitted contractors and vendors.
+For the rest, your use of them is subjected to terms of the applicable iOS/macOS/tvOS/watchOS Software License Agreement.  
 
 ## Notice
 Every font in this repository belongs to [Apple](https://www.apple.com). The purpose of this repository, and its website, is to demonstrate the San Francisco font family, and under no circumstances is it used for commercial purposes.
