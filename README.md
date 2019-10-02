@@ -17,6 +17,3 @@ This is a rare typeface that only appears in internal Apple presentation PDFs, u
  
 `Copyright © 2016-2017 Apple Inc.  All rights reserved. Use of the SF Hello font is restricted to Apple employees and permitted contractors and vendors and may only be used for the purpose of creating Apple-produced communications.`  
 Due to its license I am not able to upload the font here.
-
-## Credits
-[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight) for the font choosing demo code.
