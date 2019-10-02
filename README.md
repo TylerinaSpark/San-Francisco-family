@@ -10,7 +10,7 @@ Apple fonts are not meant to be used for commercial purposes outside Apple produ
 For the **SF Hello** typeface, it is restricted to Apple employees, and permitted contractors and vendors.  
 
 ## Notice
-Every font in this repository belongs to [Apple](https://www.apple.com). The purpose of this repository, and its website, is to demonstrate the San Francisco font family, and under no circumstances is it used for commercial purposes.
+Every font in this repository belongs to [Apple](https://www.apple.com). The purpose of this repository is to demonstrate the San Francisco font family, and under no circumstances is it used for commercial purposes.
 
 ## SF Hello
 This is a rare typeface that only appears in internal Apple presentation PDFs, unfortunately it is [subset embedded](https://twitter.com/windyboy1704/status/1080109779404578817) so I cannot extract the full font data. In order to obtain **SF Hello**, you must be a member of [Apple Sales Website](https://asw.apple.com) - which is impossible for regular users.
