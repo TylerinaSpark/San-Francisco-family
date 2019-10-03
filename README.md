@@ -2,7 +2,7 @@
 
 ![](https://developer.apple.com/fonts/images/fonts-hero-large.png)
 
-All of the fonts in San Francisco font family, developed by Apple. Including official TTF versions found on Apple Support website.  
+All of the fonts in San Francisco font family, developed by Apple. Including new **SF Camera** font from iOS 13!  
 Can be opened on Windows.
 
 For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain it~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
