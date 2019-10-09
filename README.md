@@ -5,7 +5,7 @@
 All of the fonts in San Francisco font family, developed by Apple. Including new **SF Camera** font from iOS 13!  
 Can be opened on Windows.
 
-For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain it~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
+For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
 
 ## License
 Apple fonts are not meant to be used for commercial purposes outside Apple products. The Apple font license can be found [here](https://github.com/windyboy1704/SFPro-JP/blob/master/license.md).
