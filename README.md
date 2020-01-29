@@ -7,6 +7,21 @@ Can be opened on Windows.
 
 For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obtain~~ can be obtained only if you are an Apple employee or an authorized Apple reseller.
 
+## Font list
+- [SF Camera](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Camera)
+- [SF Cash](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Cash)
+- [SF Compact](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Compact)
+- [SF Compact Rounded](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Compact%20Rounded)
+- [SF Condensed](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Condensed)
+- [SF Condensed Photos](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Condensed%20Photos)
+- SF Hello (not available)
+- [SF Mono](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Mono) (also in [TTF](https://github.com/purifiedh2o/San-Francisco-family/tree/master/TrueType%20versions))
+- [SF Pro](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Pro) (also in [TTF](https://github.com/purifiedh2o/San-Francisco-family/tree/master/TrueType%20versions))
+- [SF Pro Rounded](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Rounded)
+- [SF Shields](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Shields)
+- [Serif](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Serif) (now [*New York*](https://github.com/purifiedh2o/New-York-fonts))
+
+
 ## License
 Apple fonts are not meant to be used for commercial purposes outside Apple products. The Apple font license can be found [here](https://github.com/windyboy1704/SFPro-JP/blob/master/license.md).
 
