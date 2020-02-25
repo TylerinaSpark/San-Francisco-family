@@ -22,7 +22,7 @@ For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obt
 - [Serif](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Serif) (now [*New York*](https://github.com/purifiedh2o/New-York-fonts))
 
 ## Wiki
-In `Wiki` tab there are some instructions how to change the font metadata to work in Office app in Windows.
+In `Wiki` tab there are some instructions how to change the font metadata to work in Office app on Windows.
 
 ## License
 Apple fonts are not meant to be used for commercial purposes outside Apple products. The Apple font license can be found [here](https://github.com/windyboy1704/SFPro-JP/blob/master/license.md).
