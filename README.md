@@ -1,6 +1,6 @@
 # San Francisco family (SF family)
 
-![](https://developer.apple.com/fonts/images/fonts-hero-large.png)
+![](https://i.imgur.com/Q5aBQFz.png)
 
 All of the fonts in San Francisco font family, developed by Apple. Including new **SF Camera** font from iOS 13!  
 Can be opened on Windows.
