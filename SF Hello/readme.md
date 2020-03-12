@@ -1,6 +1,6 @@
 # SF Hello
 ![](https://i.imgur.com/4Js6wG6.png)  
-Only the Bold Italic version is available for free. The Regular weight is extracted from one of [Apple Presentation PDF](https://www.slideshare.net/gliyao/kkbox-wwdc17-uikit-qq).
+Only the Bold Italic version is available. The Regular weight is extracted from one of [Apple Presentation PDF](https://www.slideshare.net/gliyao/kkbox-wwdc17-uikit-qq).
 
 ## SF Hello vs. SF Pro Text/Display
 ![](https://i.imgur.com/FKgD3jz.png)  
