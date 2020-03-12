@@ -14,7 +14,7 @@ For [**SF Hello**](README.md#SF-Hello) font, currently it ~~is impossible to obt
 - [SF Compact Rounded](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Compact%20Rounded)
 - [SF Condensed](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Condensed)
 - [SF Condensed Photos](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Condensed%20Photos)
-- SF Hello (not available here as full version)
+- [SF Hello](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Hello) (Only Bold Italic is available as full version)
 - [SF Mono](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Mono) (also in [TTF version](https://github.com/purifiedh2o/San-Francisco-family/tree/master/TrueType%20versions))
 - [SF Pro](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Pro) (also in [TTF version](https://github.com/purifiedh2o/San-Francisco-family/tree/master/TrueType%20versions))
 - [SF Pro Rounded](https://github.com/purifiedh2o/San-Francisco-family/tree/master/SF%20Pro%20Rounded) (also in [TTF version](https://github.com/purifiedh2o/San-Francisco-family/tree/master/TrueType%20versions))
